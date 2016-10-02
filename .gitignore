@@ -1,0 +1,10 @@
+.DS_Store
+.svn
+Design
+Resources
+Feedback
+
+log/*.log
+tmp/**
+node_modules/
+.sass-cache
